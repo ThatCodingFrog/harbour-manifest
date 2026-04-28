@@ -11,9 +11,10 @@
         "macOS"
     ],
     "downloadUrl": {
-        "windows": "",
-        "linux": "",
+        "windows": "https://github.com/HarbourMasters/Starship/releases/download/v2.0.0/Starship-Barnard-Alfa-Windows.zip",
+        "linux": "https://github.com/HarbourMasters/Starship/releases/download/v2.0.0/Starship-Barnard-Alfa-Linux.zip",
         "macos_x64": "",
         "macos_arm64": ""
-    }
+    },
+    "version": "v2.0.0"
 }
