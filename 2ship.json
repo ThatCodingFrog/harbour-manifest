@@ -1,0 +1,19 @@
+{
+    "name": "2Ship2Harkinian",
+    "author": "Harbour Masters",
+    "platform": "Nintendo 64",
+    "repo": "HarbourMasters/2ship2harkinian",
+    "desc": "A PC port of the Nintendo 64 game The Legend of Zelda: Majora's Mask. Like its predecessor, Ship of Harkinian, this port is built on top of the original game code, with improvements and optimizations for modern hardware. It features enhanced graphics, improved performance, and support for various mods and custom content, all carefully put behind toggles to still allow a vanilla experience. The project is open-source and actively developed by a community of volunteers.",
+    "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/2ShipTitle.png",
+    "supportedOn": [
+        "Windows",
+        "Linux",
+        "macOS"
+    ],
+    "downloadUrl": {
+        "windows": "",
+        "linux": "",
+        "macos_x64": "",
+        "macos_arm64": ""
+    }
+}

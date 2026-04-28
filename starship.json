@@ -1,0 +1,19 @@
+{
+    "name": "Starship",
+    "author": "Harbour Masters",
+    "platform": "Nintendo 64",
+    "repo": "HarbourMasters/Starship",
+    "desc": "A PC port of Star Fox 64 by the HarbourMasters64 team.  Let's rock and roll!",
+    "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/StarshipTitle.png",
+    "supportedOn": [
+        "Windows",
+        "Linux",
+        "macOS"
+    ],
+    "downloadUrl": {
+        "windows": "",
+        "linux": "",
+        "macos_x64": "",
+        "macos_arm64": ""
+    }
+}

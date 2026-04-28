@@ -1,0 +1,17 @@
+{
+    "name": "Your game here",
+    "author": "Your name",
+    "platform": "Original console?",
+    "repo": "author/repo-name",
+    "desc": "A short description of the port, features, and any other relevant information",
+    "thumbnail": "Raw githubusercontent link to a thumbnail image for the game card OR ",
+    "supportedOn": [
+        "List of platforms the port is supported on (i.e. Windows, Linux, macOS, etc."
+    ],
+    "downloadUrl": {
+        "windows": "Direct download link for Windows build",
+        "linux": "Direct download link for Linux build",
+        "macos_x64": "",
+        "macos_arm64": ""
+    }
+}

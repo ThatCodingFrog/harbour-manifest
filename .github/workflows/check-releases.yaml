@@ -1,0 +1,32 @@
+name: Check for Port Updates
+
+on:
+  schedule:
+    - cron: '25 */6 * * *' # Runs once a day at midnight
+  workflow_dispatch:
+
+jobs:
+  check-updates:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Run Update Script
+        run: node update.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: update game manifests to latest releases"
+          title: "🚀 New Port Updates Available"
+          body: |
+            The automated crawler has detected new releases for the following ports.
+            Please verify the download links before merging.
+          branch: auto-update-check
+          delete-branch: true
+          labels: |
+            automated-update
+            dependencies

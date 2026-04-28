@@ -1,0 +1,19 @@
+{
+    "name": "SpaghettiKart",
+    "author": "Harbour Masters",
+    "platform": "Nintendo 64",
+    "repo": "HarbourMasters/SpaghettiKart",
+    "desc": "PC port of Mario Kart 64, by the HarbourMasters64 team.",
+    "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/SpaghettiKartTitle.png",
+    "supportedOn": [
+        "Windows",
+        "Linux",
+        "macOS"
+    ],
+    "downloadUrl": {
+        "windows": "",
+        "linux": "",
+        "macos_x64": "",
+        "macos_arm64": ""
+    }
+}
