@@ -11,9 +11,10 @@
         "macOS"
     ],
     "downloadUrl": {
-        "windows": "",
-        "linux": "",
-        "macos_x64": "",
-        "macos_arm64": ""
-    }
+        "windows": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-windows.zip",
+        "linux": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-linux.zip",
+        "macos_x64": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-mac-intel-x64.zip",
+        "macos_arm64": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-mac-arm64.zip"
+    },
+    "version": "1.0.0"
 }

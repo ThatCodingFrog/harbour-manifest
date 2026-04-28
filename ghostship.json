@@ -11,9 +11,10 @@
         "macOS"
     ],
     "downloadUrl": {
-        "windows": "",
-        "linux": "",
-        "macos_x64": "",
-        "macos_arm64": ""
-    }
+        "windows": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Win64.zip",
+        "linux": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Linux.zip",
+        "macos_x64": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Mac.zip",
+        "macos_arm64": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Mac.zip"
+    },
+    "version": "1.0.2"
 }

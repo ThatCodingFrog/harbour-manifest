@@ -11,9 +11,10 @@
         "macOS"
     ],
     "downloadUrl": {
-        "windows": "",
-        "linux": "",
-        "macos_x64": "",
-        "macos_arm64": ""
-    }
+        "windows": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+        "linux": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+        "macos_x64": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip",
+        "macos_arm64": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip"
+    },
+    "version": "9.2.3"
 }
