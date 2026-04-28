@@ -2,8 +2,8 @@ const fs = require('fs');
 const path = require('path');
 
 const PLATFORM_PATTERNS = {
-    windows: /.*(win|windows).*64.*\.zip$/i,
-    linux: /.*(linux|ubuntu).*\.zip$/i,
+    windows: /.*(win|windows).*\.zip$/i,
+    linux: /.*(linux|ubuntu).*\.(zip|AppImage)$/i,
     macos_x64: /.*(mac|macos|osx).*(x64|intel).*\.zip$/i,
     macos_arm64: /.*(mac|macos|osx).*(arm64|aarch64|m1|m2).*\.zip$/i,
     macos_universal: /.*(mac|macos|osx).*(universal|combined).*\.zip$/i,
@@ -44,10 +44,10 @@ async function updateGames() {
                 // 1. Assign specific builds if found
                 if (foundAssets.windows) gameData.downloadUrl.windows = foundAssets.windows;
                 if (foundAssets.linux) gameData.downloadUrl.linux = foundAssets.linux;
-                
+
                 // 2. Resolve Mac: Specific > Universal > Generic
                 const macUrl = foundAssets.macos_universal || foundAssets.macos_generic;
-                
+
                 gameData.downloadUrl.macos_x64 = foundAssets.macos_x64 || macUrl || "";
                 gameData.downloadUrl.macos_arm64 = foundAssets.macos_arm64 || macUrl || "";
 
