@@ -12,10 +12,12 @@ const PLATFORM_PATTERNS = {
 
 async function updateGames() {
     const manifest = JSON.parse(fs.readFileSync('./manifest.json', 'utf8'));
+    const ports = manifest.ports;
+
     const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
-    for (const [id, filePath] of Object.entries(manifest)) {
-        const fullPath = path.resolve(filePath);
+    for (const [id, filePath] of Object.entries(ports)) {
+        const fullPath = path.resolve("./ports", filePath);
         const gameData = JSON.parse(fs.readFileSync(fullPath, 'utf8'));
         if (!gameData.repo) continue;
 

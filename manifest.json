@@ -1,7 +1,10 @@
 {
-    "soh": "./soh.json",
-    "2ship": "./2ship.json",
-    "starship": "./starship.json",
-    "ghostship": "./ghostship.json",
-    "spaghetti": "./spaghettikart.json"
+    "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/ports/",
+    "ports": {
+        "soh": "./soh.json",
+        "2ship": "./2ship.json",
+        "starship": "./starship.json",
+        "ghostship": "./ghostship.json",
+        "spaghetti": "./spaghettikart.json"
+    }
 }
