@@ -1,0 +1,12 @@
+{
+    "name": "Harbour Ports",
+    "author": "ThatCodingFrog",
+    "repo": "ThatCodingFrog/Harbour",
+    "desc": "A library and launcher for PC ports of console games.  Designed to make installation, updating, and launching ports as easy as possible, and to unify all ports under one roof.",
+    "downloadUrl": {
+        "windows": "Direct download link for Windows build",
+        "linux": "Direct download link for Linux build",
+        "macos_x64": "",
+        "macos_arm64": ""
+    }
+}

@@ -1,10 +1,11 @@
 {
-    "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/ports/",
+    "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
     "ports": {
-        "soh": "./soh.json",
-        "2ship": "./2ship.json",
-        "starship": "./starship.json",
-        "ghostship": "./ghostship.json",
-        "spaghetti": "./spaghettikart.json"
+        "harbour": "harbour.json",
+        "soh": "soh.json",
+        "2ship": "2ship.json",
+        "starship": "starship.json",
+        "ghostship": "ghostship.json",
+        "spaghetti": "spaghettikart.json"
     }
 }
