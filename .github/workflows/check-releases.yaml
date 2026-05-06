@@ -7,7 +7,7 @@ on:
 
 jobs:
   check-updates:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     
     # REQUIRED: Explicit permissions for the token
     permissions:
