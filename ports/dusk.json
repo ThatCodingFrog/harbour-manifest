@@ -1,0 +1,21 @@
+{
+    "name": "Dusk",
+    "author": "Twilit Realm",
+    "platform": "Gamecube/Wii",
+    "repo": "TwilitRealm/Dusk",
+    "desc": "PC port of The Legend of Zelda: Twilight Princess.",
+    "thumbnail": "",
+    "supportedOn": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android",
+        "iOS"
+    ],
+    "downloadUrl": {
+        "windows": "Direct download link for Windows build",
+        "linux": "Direct download link for Linux build",
+        "macos_x64": "",
+        "macos_arm64": ""
+    }
+}
