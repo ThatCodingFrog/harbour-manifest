@@ -15,36 +15,34 @@ const PLATFORM_PATTERNS = {
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 
 async function updateGames() {
-    const manifestPath = './manifest.json';
+    // 1. Get the absolute path to the directory where update.js lives
+    const rootDir = __dirname; 
+    const manifestPath = path.join(rootDir, 'manifest.json');
+
     if (!fs.existsSync(manifestPath)) {
-        console.error("Could not find manifest.json");
+        console.error("Could not find manifest.json at: " + manifestPath);
         return;
     }
 
     const manifest = JSON.parse(fs.readFileSync(manifestPath, 'utf8'));
 
-    // Recursive function to navigate nested ports
     async function processPorts(portObject, currentSubDir = "") {
         for (const [key, value] of Object.entries(portObject)) {
             if (typeof value === 'string') {
-                // This is a game file (e.g., "soh.json")
                 const gameId = key;
                 const fileName = value;
                 
-                // Build path relative to the "ports" directory
-                const relativePath = path.join(currentSubDir, fileName);
-                const fullPath = path.resolve("./ports", relativePath);
+                // 2. Build the absolute path starting from the root directory
+                // This points to [YourRepo]/ports/[SubDir]/[filename.json]
+                const fullPath = path.join(rootDir, "ports", currentSubDir, fileName);
                 
                 await updateSingleGame(gameId, fullPath);
             } else if (typeof value === 'object' && value !== null) {
-                // This is a category (e.g., "N64"), recurse into it
-                // We add the category key to the current subdirectory path
                 await processPorts(value, path.join(currentSubDir, key));
             }
         }
     }
 
-    // Start recursion from the root "ports" object
     await processPorts(manifest.ports);
 }
 
