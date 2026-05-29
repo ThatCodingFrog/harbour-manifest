@@ -11,10 +11,10 @@
         "macOS"
     ],
     "downloadUrl": {
-        "windows": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Win64.zip",
-        "linux": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Linux.zip",
-        "macos_x64": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Mac.zip",
-        "macos_arm64": "https://github.com/HarbourMasters/Ghostship/releases/download/1.0.2/Ghostship-Dutchman-Charlie-Mac.zip"
+        "windows": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Win64.zip",
+        "linux": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Linux.zip",
+        "macos_x64": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Mac.zip",
+        "macos_arm64": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Mac.zip"
     },
-    "version": "1.0.2"
+    "version": "2.0.0"
 }
