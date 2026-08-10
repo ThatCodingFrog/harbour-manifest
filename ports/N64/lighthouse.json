@@ -16,5 +16,5 @@
         "macos_x64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Mac.zip",
         "macos_arm64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Mac.zip"
     },
-    "version": "1.0.0"
+    "version": "1.0.3"
 }
