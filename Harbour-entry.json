@@ -3,8 +3,9 @@
     "author": "Your name",
     "platform": "Original console?",
     "repo": "author/repo-name",
+    "provider": "github or gitlab.  Defaults to github",
     "desc": "A short description of the port, features, and any other relevant information",
-    "thumbnail": "Raw githubusercontent link to a thumbnail image for the game card OR ",
+    "thumbnail": "Raw githubusercontent link to a thumbnail image for the game card OR https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
     "supportedOn": [
         "List of platforms the port is supported on (i.e. Windows, Linux, macOS, etc."
     ],

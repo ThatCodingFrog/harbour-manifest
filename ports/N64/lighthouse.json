@@ -1,0 +1,20 @@
+{
+    "name": "Lighthouse",
+    "author": "HarbourMasters",
+    "platform": "N64",
+    "repo": "HarbourMasters/Lighthouse",
+    "desc": "PC port of the N64 title Banjo Kazooie.  Supports mods out of the box.",
+    "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+    "supportedOn": [
+        "Windows",
+        "Linux",
+        "macOS"
+    ],
+    "downloadUrl": {
+        "windows": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Win64.zip",
+        "linux": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Linux.zip",
+        "macos_x64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Mac.zip",
+        "macos_arm64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Mac.zip"
+    },
+    "version": "1.0.0"
+}
