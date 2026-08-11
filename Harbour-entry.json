@@ -12,7 +12,8 @@
     "downloadUrl": {
         "windows": "Direct download link for Windows build",
         "linux": "Direct download link for Linux build",
-        "macos_x64": "",
-        "macos_arm64": ""
-    }
+        "macos_x64": "Direct link to macOS build (x64/default)",
+        "macos_arm64": "Direct link to macOS build (arm64)"
+    },
+    "version": "0.0.0"
 }

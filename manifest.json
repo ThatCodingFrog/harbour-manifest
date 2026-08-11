@@ -3,7 +3,8 @@
     "ports": {
         "harbour": "harbour.json",
         "GB": {
-            "ladx": "ladxhd.json"
+            "ladx": "ladxhd.json",
+            "minish": "minish.json"
         },
         "N64": {
             "soh": "soh.json",

@@ -11,10 +11,10 @@
         "macOS"
     ],
     "downloadUrl": {
-        "windows": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/4.0.2/2Ship-Keiichi-Charlie-Win64.zip",
-        "linux": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/4.0.2/2Ship-Keiichi-Charlie-Linux.zip",
-        "macos_x64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/4.0.2/2Ship-Keiichi-Charlie-Mac.zip",
-        "macos_arm64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/4.0.2/2Ship-Keiichi-Charlie-Mac.zip"
+        "windows": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Win64.zip",
+        "linux": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Linux.zip",
+        "macos_x64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Mac.zip",
+        "macos_arm64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Mac.zip"
     },
-    "version": "4.0.2"
+    "version": "5.0.0"
 }

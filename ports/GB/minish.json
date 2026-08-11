@@ -1,0 +1,22 @@
+{
+    "name": "Project Picori",
+    "author": "999sian",
+    "platform": "Game Boy Advance",
+    "repo": "999sian/tmc",
+    "provider": "github",
+    "desc": "In-progress beta PC port of The Legend of Zelda: The Minish Cap.",
+    "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+    "supportedOn": [
+        "Windows",
+        "Linux",
+        "macOS",
+        "Android"
+    ],
+    "downloadUrl": {
+        "windows": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-windows-x86_64-v0.8.3.tar.gz",
+        "linux": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-linux-x86_64-v0.8.3.tar.gz",
+        "macos_x64": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-macos-x86_64-v0.8.3.tar.gz",
+        "macos_arm64": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-macos-arm64-v0.8.3.tar.gz"
+    },
+    "version": "v0.8.3"
+}
