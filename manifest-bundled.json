@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-08-14T14:25:32.889Z",
+  "generated_at": "2026-08-14T20:33:31.313Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -10,7 +10,7 @@
         "repo": "bighead.0/ladxhd_updated",
         "provider": "gitlab",
         "desc": "PC port of the Game Boy Color title The Legend of Zelda: Link's Awakening DX.  Includes many enhancements",
-        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+        "thumbnail": "UnknownTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
@@ -31,7 +31,7 @@
         "repo": "999sian/tmc",
         "provider": "github",
         "desc": "In-progress beta PC port of The Legend of Zelda: The Minish Cap.",
-        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+        "thumbnail": "UnknownTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
@@ -54,7 +54,7 @@
         "platform": "Nintendo 64",
         "repo": "HarbourMasters/Shipwright",
         "desc": "A PC port of the classic Nintendo 64 game The Legend of Zelda: Ocarina of Time.  The port is built on top of the original game code, with improvements and optimizations for modern hardware. It features enhanced graphics, improved performance, and support for various mods and custom content, all carefully put behind toggles to still allow a vanilla experience. The project is open-source and actively developed by a community of volunteers.",
-        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/ShipTitle.png",
+        "thumbnail": "ShipTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
@@ -74,7 +74,7 @@
         "platform": "Nintendo 64",
         "repo": "HarbourMasters/2ship2harkinian",
         "desc": "A PC port of the Nintendo 64 game The Legend of Zelda: Majora's Mask. Like its predecessor, Ship of Harkinian, this port is built on top of the original game code, with improvements and optimizations for modern hardware. It features enhanced graphics, improved performance, and support for various mods and custom content, all carefully put behind toggles to still allow a vanilla experience. The project is open-source and actively developed by a community of volunteers.",
-        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/2ShipTitle.png",
+        "thumbnail": "2ShipTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
@@ -94,7 +94,7 @@
         "platform": "Nintendo 64",
         "repo": "HarbourMasters/Starship",
         "desc": "A PC port of Star Fox 64 by the HarbourMasters64 team.  Let's rock and roll!",
-        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/StarshipTitle.png",
+        "thumbnail": "StarshipTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
@@ -114,7 +114,7 @@
         "platform": "Nintendo 64",
         "repo": "HarbourMasters/Ghostship",
         "desc": "A PC port of Super Mario 64, by the HarbourMasters64 team.",
-        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/GhostshipTitle.png",
+        "thumbnail": "GhostshipTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
@@ -134,7 +134,7 @@
         "platform": "Nintendo 64",
         "repo": "HarbourMasters/SpaghettiKart",
         "desc": "PC port of Mario Kart 64, by the HarbourMasters64 team.",
-        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/SpaghettiKartTitle.png",
+        "thumbnail": "SpaghettiKartTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
@@ -154,7 +154,7 @@
         "platform": "N64",
         "repo": "HarbourMasters/Lighthouse",
         "desc": "PC port of the N64 title Banjo Kazooie.  Supports mods out of the box.",
-        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+        "thumbnail": "UnknownTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
@@ -176,7 +176,7 @@
         "platform": "Gamecube/Wii",
         "repo": "TwilitRealm/Dusklight",
         "desc": "PC port of The Legend of Zelda: Twilight Princess.",
-        "thumbnail": "",
+        "thumbnail": "UnknownTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
