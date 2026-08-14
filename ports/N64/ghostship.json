@@ -4,7 +4,7 @@
     "platform": "Nintendo 64",
     "repo": "HarbourMasters/Ghostship",
     "desc": "A PC port of Super Mario 64, by the HarbourMasters64 team.",
-    "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/GhostshipTitle.png",
+    "thumbnail": "GhostshipTitle.png",
     "supportedOn": [
         "Windows",
         "Linux",

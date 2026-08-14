@@ -4,7 +4,7 @@
     "platform": "Gamecube/Wii",
     "repo": "TwilitRealm/Dusklight",
     "desc": "PC port of The Legend of Zelda: Twilight Princess.",
-    "thumbnail": "",
+    "thumbnail": "UnknownTitle.png",
     "supportedOn": [
         "Windows",
         "Linux",

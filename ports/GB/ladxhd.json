@@ -5,7 +5,7 @@
     "repo": "bighead.0/ladxhd_updated",
     "provider": "gitlab",
     "desc": "PC port of the Game Boy Color title The Legend of Zelda: Link's Awakening DX.  Includes many enhancements",
-    "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+    "thumbnail": "UnknownTitle.png",
     "supportedOn": [
         "Windows",
         "Linux",

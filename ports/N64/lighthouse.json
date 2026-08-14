@@ -4,7 +4,7 @@
     "platform": "N64",
     "repo": "HarbourMasters/Lighthouse",
     "desc": "PC port of the N64 title Banjo Kazooie.  Supports mods out of the box.",
-    "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+    "thumbnail": "UnknownTitle.png",
     "supportedOn": [
         "Windows",
         "Linux",

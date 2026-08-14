@@ -5,7 +5,7 @@
     "repo": "999sian/tmc",
     "provider": "github",
     "desc": "In-progress beta PC port of The Legend of Zelda: The Minish Cap.",
-    "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+    "thumbnail": "UnknownTitle.png",
     "supportedOn": [
         "Windows",
         "Linux",
