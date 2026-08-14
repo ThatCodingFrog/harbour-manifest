@@ -1,0 +1,46 @@
+name: Bundle Port Manifests
+
+on:
+  push:
+    branches:
+      - main 
+
+# Grant write permissions so the runner can commit the generated file back
+permissions:
+  contents: write
+
+jobs:
+  bundle:
+    runs-on: ubuntu-24.04
+    
+    # REQUIRED: Explicit permissions for the token
+    permissions:
+      contents: write
+      pull-requests: write
+
+    # OPT-IN: Force Node 24 runtime to fix deprecation
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+    steps:
+      # Updated to v6 for Node 24 support
+      - uses: actions/checkout@v6
+
+      - name: Run Update Script
+        run: node bundleJSON.js
+
+      # Step 4: Commit and push the bundled file if it changed
+      - name: Commit Bundled Manifest
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          git add manifest-bundled.json
+          
+          # Only commit if there are actually changes to manifest.json
+          if git diff --staged --quiet; then
+            echo "No changes in bundled manifest, skipping commit."
+          else
+            git commit -m "chore: auto-bundle port manifests [skip ci]"
+            git push
+          fi

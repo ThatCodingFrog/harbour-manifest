@@ -1,0 +1,197 @@
+{
+  "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
+  "generated_at": "2026-08-14T14:24:42.253Z",
+  "ports": {
+    "GB": {
+      "ladx": {
+        "name": "Link's Awakening DX HD",
+        "author": "Unknown, Bighead",
+        "platform": "Game Boy/Game Boy Color",
+        "repo": "bighead.0/ladxhd_updated",
+        "provider": "gitlab",
+        "desc": "PC port of the Game Boy Color title The Legend of Zelda: Link's Awakening DX.  Includes many enhancements",
+        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+        "supportedOn": [
+          "Windows",
+          "Linux",
+          "macOS"
+        ],
+        "downloadUrl": {
+          "windows": "https://pixeldrain.com/u/XQjoRAjJ",
+          "linux": "https://pixeldrain.com/u/7QGe6nLq",
+          "macos_x64": "https://pixeldrain.com/u/TFXCMcrR",
+          "macos_arm64": "https://pixeldrain.com/u/B5imKrNF"
+        },
+        "version": "v2.0.4"
+      },
+      "minish": {
+        "name": "Project Picori",
+        "author": "999sian",
+        "platform": "Game Boy Advance",
+        "repo": "999sian/tmc",
+        "provider": "github",
+        "desc": "In-progress beta PC port of The Legend of Zelda: The Minish Cap.",
+        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+        "supportedOn": [
+          "Windows",
+          "Linux",
+          "macOS",
+          "Android"
+        ],
+        "downloadUrl": {
+          "windows": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-windows-x86_64-v0.8.3.tar.gz",
+          "linux": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-linux-x86_64-v0.8.3.tar.gz",
+          "macos_x64": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-macos-x86_64-v0.8.3.tar.gz",
+          "macos_arm64": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-macos-arm64-v0.8.3.tar.gz"
+        },
+        "version": "v0.8.3"
+      }
+    },
+    "N64": {
+      "soh": {
+        "name": "Ship of Harkinian",
+        "author": "Harbour Masters",
+        "platform": "Nintendo 64",
+        "repo": "HarbourMasters/Shipwright",
+        "desc": "A PC port of the classic Nintendo 64 game The Legend of Zelda: Ocarina of Time.  The port is built on top of the original game code, with improvements and optimizations for modern hardware. It features enhanced graphics, improved performance, and support for various mods and custom content, all carefully put behind toggles to still allow a vanilla experience. The project is open-source and actively developed by a community of volunteers.",
+        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/ShipTitle.png",
+        "supportedOn": [
+          "Windows",
+          "Linux",
+          "macOS"
+        ],
+        "downloadUrl": {
+          "windows": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Win64.zip",
+          "linux": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Linux.zip",
+          "macos_x64": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip",
+          "macos_arm64": "https://github.com/HarbourMasters/Shipwright/releases/download/9.2.3/SoH-Ackbar-Delta-Mac.zip"
+        },
+        "version": "9.2.3"
+      },
+      "2ship": {
+        "name": "2Ship2Harkinian",
+        "author": "Harbour Masters",
+        "platform": "Nintendo 64",
+        "repo": "HarbourMasters/2ship2harkinian",
+        "desc": "A PC port of the Nintendo 64 game The Legend of Zelda: Majora's Mask. Like its predecessor, Ship of Harkinian, this port is built on top of the original game code, with improvements and optimizations for modern hardware. It features enhanced graphics, improved performance, and support for various mods and custom content, all carefully put behind toggles to still allow a vanilla experience. The project is open-source and actively developed by a community of volunteers.",
+        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/2ShipTitle.png",
+        "supportedOn": [
+          "Windows",
+          "Linux",
+          "macOS"
+        ],
+        "downloadUrl": {
+          "windows": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Win64.zip",
+          "linux": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Linux.zip",
+          "macos_x64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Mac.zip",
+          "macos_arm64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Mac.zip"
+        },
+        "version": "5.0.0"
+      },
+      "starship": {
+        "name": "Starship",
+        "author": "Harbour Masters",
+        "platform": "Nintendo 64",
+        "repo": "HarbourMasters/Starship",
+        "desc": "A PC port of Star Fox 64 by the HarbourMasters64 team.  Let's rock and roll!",
+        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/StarshipTitle.png",
+        "supportedOn": [
+          "Windows",
+          "Linux",
+          "macOS"
+        ],
+        "downloadUrl": {
+          "windows": "https://github.com/HarbourMasters/Starship/releases/download/v2.0.0/Starship-Barnard-Alfa-Windows.zip",
+          "linux": "https://github.com/HarbourMasters/Starship/releases/download/v2.0.0/Starship-Barnard-Alfa-Linux.zip",
+          "macos_x64": "",
+          "macos_arm64": ""
+        },
+        "version": "v2.0.0"
+      },
+      "ghostship": {
+        "name": "Ghostship",
+        "author": "Harbour Masters",
+        "platform": "Nintendo 64",
+        "repo": "HarbourMasters/Ghostship",
+        "desc": "A PC port of Super Mario 64, by the HarbourMasters64 team.",
+        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/GhostshipTitle.png",
+        "supportedOn": [
+          "Windows",
+          "Linux",
+          "macOS"
+        ],
+        "downloadUrl": {
+          "windows": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Win64.zip",
+          "linux": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Linux.zip",
+          "macos_x64": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Mac.zip",
+          "macos_arm64": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Mac.zip"
+        },
+        "version": "2.0.0"
+      },
+      "spaghetti": {
+        "name": "SpaghettiKart",
+        "author": "Harbour Masters",
+        "platform": "Nintendo 64",
+        "repo": "HarbourMasters/SpaghettiKart",
+        "desc": "PC port of Mario Kart 64, by the HarbourMasters64 team.",
+        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/Harbour-manifest/refs/heads/main/thumbnails/SpaghettiKartTitle.png",
+        "supportedOn": [
+          "Windows",
+          "Linux",
+          "macOS"
+        ],
+        "downloadUrl": {
+          "windows": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-windows.zip",
+          "linux": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-linux.zip",
+          "macos_x64": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-mac-intel-x64.zip",
+          "macos_arm64": "https://github.com/HarbourMasters/SpaghettiKart/releases/download/1.0.0/spaghetti-mac-arm64.zip"
+        },
+        "version": "1.0.0"
+      },
+      "lighthouse": {
+        "name": "Lighthouse",
+        "author": "HarbourMasters",
+        "platform": "N64",
+        "repo": "HarbourMasters/Lighthouse",
+        "desc": "PC port of the N64 title Banjo Kazooie.  Supports mods out of the box.",
+        "thumbnail": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/thumbnails/UnknownTitle.png",
+        "supportedOn": [
+          "Windows",
+          "Linux",
+          "macOS"
+        ],
+        "downloadUrl": {
+          "windows": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Win64.zip",
+          "linux": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Linux.zip",
+          "macos_x64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Mac.zip",
+          "macos_arm64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Mac.zip"
+        },
+        "version": "1.0.3"
+      }
+    },
+    "GC": {
+      "dusk": {
+        "name": "Dusk",
+        "author": "Twilit Realm",
+        "platform": "Gamecube/Wii",
+        "repo": "TwilitRealm/Dusklight",
+        "desc": "PC port of The Legend of Zelda: Twilight Princess.",
+        "thumbnail": "",
+        "supportedOn": [
+          "Windows",
+          "Linux",
+          "macOS",
+          "Android",
+          "iOS"
+        ],
+        "downloadUrl": {
+          "windows": "https://github.com/TwilitRealm/dusklight/releases/download/v1.4.1/Dusklight-v1.4.1-win32-x86_64.zip",
+          "linux": "https://github.com/TwilitRealm/dusklight/releases/download/v1.4.1/Dusklight-v1.4.1-linux-x86_64.AppImage",
+          "macos_x64": "https://github.com/TwilitRealm/dusklight/releases/download/v1.4.1/Dusklight-v1.4.1-macos-x86_64.zip",
+          "macos_arm64": "https://github.com/TwilitRealm/dusklight/releases/download/v1.4.1/Dusklight-v1.4.1-macos-arm64.zip"
+        },
+        "version": "v1.4.1"
+      }
+    }
+  }
+}
