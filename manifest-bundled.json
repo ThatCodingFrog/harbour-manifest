@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-08-14T20:33:31.313Z",
+  "generated_at": "2026-08-17T17:44:50.419Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -161,12 +161,12 @@
           "macOS"
         ],
         "downloadUrl": {
-          "windows": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Win64.zip",
-          "linux": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Linux.zip",
-          "macos_x64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Mac.zip",
-          "macos_arm64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.0.3/Lighthouse-Split-Rock-Delta-Mac.zip"
+          "windows": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.1.0/Lighthouse-Hatteras-Alfa-Win64.zip",
+          "linux": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.1.0/Lighthouse-Hatteras-Alfa-Linux.zip",
+          "macos_x64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.1.0/Lighthouse-Hatteras-Alfa-Mac.zip",
+          "macos_arm64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.1.0/Lighthouse-Hatteras-Alfa-Mac.zip"
         },
-        "version": "1.0.3"
+        "version": "1.1.0"
       }
     },
     "GC": {
