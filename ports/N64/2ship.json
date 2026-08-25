@@ -11,10 +11,10 @@
         "macOS"
     ],
     "downloadUrl": {
-        "windows": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Win64.zip",
-        "linux": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Linux.zip",
-        "macos_x64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Mac.zip",
-        "macos_arm64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Mac.zip"
+        "windows": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.1/2Ship-Battler-Bravo-Win64.zip",
+        "linux": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.1/2Ship-Battler-Bravo-Linux.zip",
+        "macos_x64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.1/2Ship-Battler-Bravo-Mac.zip",
+        "macos_arm64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.1/2Ship-Battler-Bravo-Mac.zip"
     },
-    "version": "5.0.0"
+    "version": "5.0.1"
 }
