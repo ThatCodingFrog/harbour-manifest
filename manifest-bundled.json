@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-08-25T14:25:44.467Z",
+  "generated_at": "2026-08-25T19:14:07.291Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -81,12 +81,12 @@
           "macOS"
         ],
         "downloadUrl": {
-          "windows": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Win64.zip",
-          "linux": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Linux.zip",
-          "macos_x64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Mac.zip",
-          "macos_arm64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.0/2Ship-Battler-Alfa-Mac.zip"
+          "windows": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.1/2Ship-Battler-Bravo-Win64.zip",
+          "linux": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.1/2Ship-Battler-Bravo-Linux.zip",
+          "macos_x64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.1/2Ship-Battler-Bravo-Mac.zip",
+          "macos_arm64": "https://github.com/HarbourMasters/2ship2harkinian/releases/download/5.0.1/2Ship-Battler-Bravo-Mac.zip"
         },
-        "version": "5.0.0"
+        "version": "5.0.1"
       },
       "starship": {
         "name": "Starship",
