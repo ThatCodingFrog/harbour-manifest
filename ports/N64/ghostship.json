@@ -11,10 +11,10 @@
         "macOS"
     ],
     "downloadUrl": {
-        "windows": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Win64.zip",
-        "linux": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Linux.zip",
-        "macos_x64": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Mac.zip",
-        "macos_arm64": "https://github.com/HarbourMasters/Ghostship/releases/download/2.0.0/Mary-Celeste-Alfa-Mac.zip"
+        "windows": "https://github.com/HarbourMasters/Ghostship/releases/download/3.0.0/Nautilus-Alfa-Win64.zip",
+        "linux": "https://github.com/HarbourMasters/Ghostship/releases/download/3.0.0/Nautilus-Alfa-Linux.zip",
+        "macos_x64": "https://github.com/HarbourMasters/Ghostship/releases/download/3.0.0/Nautilus-Alfa-Mac.zip",
+        "macos_arm64": "https://github.com/HarbourMasters/Ghostship/releases/download/3.0.0/Nautilus-Alfa-Mac.zip"
     },
-    "version": "2.0.0"
+    "version": "3.0.0"
 }
