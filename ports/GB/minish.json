@@ -13,10 +13,10 @@
         "Android"
     ],
     "downloadUrl": {
-        "windows": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-windows-x86_64-v0.8.3.tar.gz",
-        "linux": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-linux-x86_64-v0.8.3.tar.gz",
-        "macos_x64": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-macos-x86_64-v0.8.3.tar.gz",
-        "macos_arm64": "https://github.com/999sian/tmc/releases/download/v0.8.3/tmc-multi-macos-arm64-v0.8.3.tar.gz"
+        "windows": "https://github.com/999sian/tmc/releases/download/v0.9.1/tmc-multi-windows-x86_64-v0.9.1.tar.gz",
+        "linux": "https://github.com/999sian/tmc/releases/download/v0.9.1/tmc-multi-linux-x86_64-v0.9.1.tar.gz",
+        "macos_x64": "https://github.com/999sian/tmc/releases/download/v0.9.1/tmc-multi-macos-x86_64-v0.9.1.tar.gz",
+        "macos_arm64": "https://github.com/999sian/tmc/releases/download/v0.9.1/tmc-multi-macos-arm64-v0.9.1.tar.gz"
     },
-    "version": "v0.8.3"
+    "version": "v0.9.1"
 }
