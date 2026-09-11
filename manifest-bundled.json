@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-09-10T14:26:47.705Z",
+  "generated_at": "2026-09-11T14:47:16.744Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -39,12 +39,12 @@
           "Android"
         ],
         "downloadUrl": {
-          "windows": "https://github.com/999sian/tmc/releases/download/v0.9.1/tmc-multi-windows-x86_64-v0.9.1.tar.gz",
-          "linux": "https://github.com/999sian/tmc/releases/download/v0.9.1/tmc-multi-linux-x86_64-v0.9.1.tar.gz",
-          "macos_x64": "https://github.com/999sian/tmc/releases/download/v0.9.1/tmc-multi-macos-x86_64-v0.9.1.tar.gz",
-          "macos_arm64": "https://github.com/999sian/tmc/releases/download/v0.9.1/tmc-multi-macos-arm64-v0.9.1.tar.gz"
+          "windows": "https://github.com/999sian/tmc/releases/download/v0.9.2/tmc-multi-windows-x86_64-v0.9.2.tar.gz",
+          "linux": "https://github.com/999sian/tmc/releases/download/v0.9.2/tmc-multi-linux-x86_64-v0.9.2.tar.gz",
+          "macos_x64": "https://github.com/999sian/tmc/releases/download/v0.9.2/tmc-multi-macos-x86_64-v0.9.2.tar.gz",
+          "macos_arm64": "https://github.com/999sian/tmc/releases/download/v0.9.2/tmc-multi-macos-arm64-v0.9.2.tar.gz"
         },
-        "version": "v0.9.1"
+        "version": "v0.9.2"
       }
     },
     "N64": {
