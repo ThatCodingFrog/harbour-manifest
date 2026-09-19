@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-09-13T17:53:58.692Z",
+  "generated_at": "2026-09-19T15:23:07.585Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -18,11 +18,11 @@
         ],
         "downloadUrl": {
           "windows": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/343980176/download",
-          "linux": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/343979883/download",
-          "macos_x64": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/343980072/download",
-          "macos_arm64": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/343979974/download"
+          "linux": "https://pixeldrain.com/u/a9ghbAQq",
+          "macos_x64": "https://pixeldrain.com/u/WA8fyhof",
+          "macos_arm64": "https://pixeldrain.com/u/p3481vBY"
         },
-        "version": "v2.0.7"
+        "version": "v2.0.8"
       },
       "minish": {
         "name": "Project Picori",
@@ -185,12 +185,12 @@
           "iOS"
         ],
         "downloadUrl": {
-          "windows": "https://github.com/TwilitRealm/dusklight/releases/download/v1.4.1/Dusklight-v1.4.1-win32-x86_64.zip",
-          "linux": "https://github.com/TwilitRealm/dusklight/releases/download/v1.4.1/Dusklight-v1.4.1-linux-x86_64.AppImage",
-          "macos_x64": "https://github.com/TwilitRealm/dusklight/releases/download/v1.4.1/Dusklight-v1.4.1-macos-x86_64.zip",
-          "macos_arm64": "https://github.com/TwilitRealm/dusklight/releases/download/v1.4.1/Dusklight-v1.4.1-macos-arm64.zip"
+          "windows": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.0/Dusklight-v2.0.0-win32-x86_64.zip",
+          "linux": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.0/Dusklight-v2.0.0-linux-x86_64.AppImage",
+          "macos_x64": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.0/Dusklight-v2.0.0-macos-x86_64.zip",
+          "macos_arm64": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.0/Dusklight-v2.0.0-macos-arm64.zip"
         },
-        "version": "v1.4.1"
+        "version": "v2.0.0"
       }
     }
   }
