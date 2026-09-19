@@ -13,9 +13,9 @@
     ],
     "downloadUrl": {
         "windows": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/343980176/download",
-        "linux": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/343979883/download",
-        "macos_x64": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/343980072/download",
-        "macos_arm64": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/343979974/download"
+        "linux": "https://pixeldrain.com/u/a9ghbAQq",
+        "macos_x64": "https://pixeldrain.com/u/WA8fyhof",
+        "macos_arm64": "https://pixeldrain.com/u/p3481vBY"
     },
-    "version": "v2.0.7"
+    "version": "v2.0.8"
 }
