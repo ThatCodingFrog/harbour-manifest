@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-09-29T16:02:05.630Z",
+  "generated_at": "2026-09-29T22:48:19.197Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -180,12 +180,12 @@
           "Windows"
         ],
         "downloadUrl": {
-          "windows": "Direct download link for Windows build",
+          "windows": "https://github.com/Varuuna/ComboShip/releases/download/v0.2.1/ComboShip-v0.2.1-windows.zip",
           "linux": "Direct download link for Linux build",
-          "macos_x64": "Direct link to macOS build (x64/default)",
-          "macos_arm64": "Direct link to macOS build (arm64)"
+          "macos_x64": "",
+          "macos_arm64": ""
         },
-        "version": "0.0.0"
+        "version": "v0.2.1"
       }
     },
     "GC": {
