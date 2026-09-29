@@ -4,7 +4,7 @@
     "platform": "Game Boy/Game Boy Color",
     "repo": "bighead.0/ladxhd_updated",
     "provider": "gitlab",
-    "desc": "PC port of the Game Boy Color title The Legend of Zelda: Link's Awakening DX.  Includes many enhancements",
+    "desc": "PC port of the Game Boy Color title The Legend of Zelda: Link's Awakening DX.  Includes many enhancements, including new gameplay cheats and new ways of viewing the game.",
     "thumbnail": "UnknownTitle.png",
     "supportedOn": [
         "Windows",

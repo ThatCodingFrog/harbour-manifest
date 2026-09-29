@@ -3,8 +3,8 @@
     "author": "Twilit Realm",
     "platform": "Gamecube/Wii",
     "repo": "TwilitRealm/Dusklight",
-    "desc": "PC port of The Legend of Zelda: Twilight Princess.",
-    "thumbnail": "UnknownTitle.png",
+    "desc": "PC port of The Legend of Zelda: Twilight Princess. Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
+    "thumbnail": "DusklightTitle.png",
     "supportedOn": [
         "Windows",
         "Linux",

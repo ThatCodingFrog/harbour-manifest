@@ -12,7 +12,8 @@
             "starship": "starship.json",
             "ghostship": "ghostship.json",
             "spaghetti": "spaghettikart.json",
-            "lighthouse": "lighthouse.json"
+            "lighthouse": "lighthouse.json",
+            "comboship": "comboship.json"
         },
         "GC": {
             "dusk": "dusk.json"

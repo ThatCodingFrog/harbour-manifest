@@ -4,8 +4,8 @@
     "platform": "Game Boy Advance",
     "repo": "999sian/tmc",
     "provider": "github",
-    "desc": "In-progress beta PC port of The Legend of Zelda: The Minish Cap.",
-    "thumbnail": "UnknownTitle.png",
+    "desc": "PC port of The Legend of Zelda: The Minish Cap.",
+    "thumbnail": "ProjectPicoriTitle.png",
     "supportedOn": [
         "Windows",
         "Linux",

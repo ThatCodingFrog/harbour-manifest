@@ -1,0 +1,19 @@
+{
+    "name": "ComboShip",
+    "author": "Varuuna",
+    "platform": "N64",
+    "repo": "Varuuna/ComboShip",
+    "provider": "github",
+    "desc": "Ocarina of Time and Majora's Mask cross-game combo randomizer, built on top of Ship of Harkinian and 2Ship2Harkinian. Explore Hyrule and Termina side-by-side, finding items between the two games.",
+    "thumbnail": "UnknownTitle.png",
+    "supportedOn": [
+        "Windows"
+    ],
+    "downloadUrl": {
+        "windows": "Direct download link for Windows build",
+        "linux": "Direct download link for Linux build",
+        "macos_x64": "Direct link to macOS build (x64/default)",
+        "macos_arm64": "Direct link to macOS build (arm64)"
+    },
+    "version": "0.0.0"
+}
