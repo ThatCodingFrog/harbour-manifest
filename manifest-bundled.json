@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-09-28T14:12:13.353Z",
+  "generated_at": "2026-09-29T14:30:10.822Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -9,7 +9,7 @@
         "platform": "Game Boy/Game Boy Color",
         "repo": "bighead.0/ladxhd_updated",
         "provider": "gitlab",
-        "desc": "PC port of the Game Boy Color title The Legend of Zelda: Link's Awakening DX.  Includes many enhancements",
+        "desc": "PC port of the Game Boy Color title The Legend of Zelda: Link's Awakening DX.  Includes many enhancements, including new gameplay cheats and new ways of viewing the game.",
         "thumbnail": "UnknownTitle.png",
         "supportedOn": [
           "Windows",
@@ -30,8 +30,8 @@
         "platform": "Game Boy Advance",
         "repo": "999sian/tmc",
         "provider": "github",
-        "desc": "In-progress beta PC port of The Legend of Zelda: The Minish Cap.",
-        "thumbnail": "UnknownTitle.png",
+        "desc": "PC port of The Legend of Zelda: The Minish Cap.",
+        "thumbnail": "ProjectPicoriTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
@@ -167,6 +167,25 @@
           "macos_arm64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.1.0/Lighthouse-Hatteras-Alfa-Mac.zip"
         },
         "version": "1.1.0"
+      },
+      "comboship": {
+        "name": "ComboShip",
+        "author": "Varuuna",
+        "platform": "N64",
+        "repo": "Varuuna/ComboShip",
+        "provider": "github",
+        "desc": "Ocarina of Time and Majora's Mask cross-game combo randomizer, built on top of Ship of Harkinian and 2Ship2Harkinian. Explore Hyrule and Termina side-by-side, finding items between the two games.",
+        "thumbnail": "UnknownTitle.png",
+        "supportedOn": [
+          "Windows"
+        ],
+        "downloadUrl": {
+          "windows": "Direct download link for Windows build",
+          "linux": "Direct download link for Linux build",
+          "macos_x64": "Direct link to macOS build (x64/default)",
+          "macos_arm64": "Direct link to macOS build (arm64)"
+        },
+        "version": "0.0.0"
       }
     },
     "GC": {
@@ -175,8 +194,8 @@
         "author": "Twilit Realm",
         "platform": "Gamecube/Wii",
         "repo": "TwilitRealm/Dusklight",
-        "desc": "PC port of The Legend of Zelda: Twilight Princess.",
-        "thumbnail": "UnknownTitle.png",
+        "desc": "PC port of The Legend of Zelda: Twilight Princess. Dusklight brings a classic adventure to PC and mobile platforms with a variety of fixes and improvements.",
+        "thumbnail": "DusklightTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
