@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-09-29T22:48:19.197Z",
+  "generated_at": "2026-09-30T14:09:53.564Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -204,12 +204,12 @@
           "iOS"
         ],
         "downloadUrl": {
-          "windows": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.2/Dusklight-v2.0.2-win32-x86_64.zip",
-          "linux": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.2/Dusklight-v2.0.2-linux-x86_64.AppImage",
-          "macos_x64": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.2/Dusklight-v2.0.2-macos-x86_64.zip",
-          "macos_arm64": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.2/Dusklight-v2.0.2-macos-arm64.zip"
+          "windows": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-win32-x86_64.zip",
+          "linux": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-linux-x86_64.AppImage",
+          "macos_x64": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-macos-x86_64.zip",
+          "macos_arm64": "https://github.com/TwilitRealm/dusklight/releases/download/v2.0.3/Dusklight-v2.0.3-macos-arm64.zip"
         },
-        "version": "v2.0.2"
+        "version": "v2.0.3"
       }
     }
   }
