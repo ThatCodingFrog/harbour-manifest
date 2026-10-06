@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-09-30T14:09:53.564Z",
+  "generated_at": "2026-10-06T01:06:53.703Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -150,7 +150,7 @@
       },
       "lighthouse": {
         "name": "Lighthouse",
-        "author": "HarbourMasters",
+        "author": "Harbour Masters",
         "platform": "N64",
         "repo": "HarbourMasters/Lighthouse",
         "desc": "PC port of the N64 title Banjo Kazooie.  Supports mods out of the box.",
@@ -186,6 +186,27 @@
           "macos_arm64": ""
         },
         "version": "v0.2.1"
+      },
+      "paper": {
+        "name": "Paperboat",
+        "author": "Harbour Masters",
+        "platform": "N64",
+        "repo": "HarbourMasters/Paperboat",
+        "provider": "github",
+        "desc": "Harbour Masters port of Paper Mario 64, based on the Paper Mario DX decompilation.",
+        "thumbnail": "UnknownTitle.png",
+        "supportedOn": [
+          "Windows",
+          "Linux",
+          "macOS"
+        ],
+        "downloadUrl": {
+          "windows": "https://github.com/HarbourMasters/PaperBoat/releases/download/1.0.2/Paperboat-Mulberry-Charlie-Win64.zip",
+          "linux": "https://github.com/HarbourMasters/PaperBoat/releases/download/1.0.2/Paperboat-Mulberry-Charlie-Linux.zip",
+          "macos_x64": "https://github.com/HarbourMasters/PaperBoat/releases/download/1.0.2/Paperboat-Mulberry-Charlie-Mac.zip",
+          "macos_arm64": "https://github.com/HarbourMasters/PaperBoat/releases/download/1.0.2/Paperboat-Mulberry-Charlie-Mac.zip"
+        },
+        "version": "1.0.2"
       }
     },
     "GC": {
