@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-10-06T14:40:02.351Z",
+  "generated_at": "2026-10-09T14:57:31.201Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -17,12 +17,12 @@
           "macOS"
         ],
         "downloadUrl": {
-          "windows": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/343980176/download",
-          "linux": "https://pixeldrain.com/u/a9ghbAQq",
-          "macos_x64": "https://pixeldrain.com/u/WA8fyhof",
-          "macos_arm64": "https://pixeldrain.com/u/p3481vBY"
+          "windows": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/366233232/download",
+          "linux": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/366232818/download",
+          "macos_x64": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/366233148/download",
+          "macos_arm64": "https://gitlab.com/bighead.0/ladxhd_updated/-/package_files/366233059/download"
         },
-        "version": "v2.0.8"
+        "version": "v2.0.9"
       },
       "minish": {
         "name": "Project Picori",
