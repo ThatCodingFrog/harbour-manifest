@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-10-14T17:22:07.461Z",
+  "generated_at": "2026-10-14T23:17:00.876Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -154,7 +154,7 @@
         "platform": "N64",
         "repo": "HarbourMasters/Lighthouse",
         "desc": "PC port of the N64 title Banjo Kazooie.  Supports mods out of the box.",
-        "thumbnail": "UnknownTitle.png",
+        "thumbnail": "LighthouseTitle.png",
         "supportedOn": [
           "Windows",
           "Linux",
