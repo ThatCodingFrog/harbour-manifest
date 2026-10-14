@@ -10,10 +10,10 @@
         "Windows"
     ],
     "downloadUrl": {
-        "windows": "https://github.com/Varuuna/ComboShip/releases/download/v0.2.1/ComboShip-v0.2.1-windows.zip",
-        "linux": "Direct download link for Linux build",
-        "macos_x64": "",
-        "macos_arm64": ""
+        "windows": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.0/ComboShip-v0.3.0-windows.zip",
+        "linux": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.0/ComboShip-v0.3.0-linux-x86_64.AppImage",
+        "macos_x64": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.0/ComboShip-v0.3.0-macos.dmg",
+        "macos_arm64": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.0/ComboShip-v0.3.0-macos.dmg"
     },
-    "version": "v0.2.1"
+    "version": "v0.3.0"
 }
