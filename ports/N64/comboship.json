@@ -7,7 +7,9 @@
     "desc": "Ocarina of Time and Majora's Mask cross-game combo randomizer, built on top of Ship of Harkinian and 2Ship2Harkinian. Explore Hyrule and Termina side-by-side, finding items between the two games.",
     "thumbnail": "UnknownTitle.png",
     "supportedOn": [
-        "Windows"
+        "Windows",
+        "Linux",
+        "macOS"
     ],
     "downloadUrl": {
         "windows": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.0/ComboShip-v0.3.0-windows.zip",
