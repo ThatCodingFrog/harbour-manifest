@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-10-19T13:35:25.235Z",
+  "generated_at": "2026-10-20T14:29:07.636Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -39,12 +39,12 @@
           "Android"
         ],
         "downloadUrl": {
-          "windows": "https://github.com/999sian/tmc/releases/download/v0.9.5/tmc-multi-windows-x86_64-v0.9.5.tar.gz",
-          "linux": "https://github.com/999sian/tmc/releases/download/v0.9.5/tmc-multi-linux-x86_64-v0.9.5.tar.gz",
-          "macos_x64": "https://github.com/999sian/tmc/releases/download/v0.9.5/tmc-multi-macos-x86_64-v0.9.5.tar.gz",
-          "macos_arm64": "https://github.com/999sian/tmc/releases/download/v0.9.5/tmc-multi-macos-arm64-v0.9.5.tar.gz"
+          "windows": "https://github.com/999sian/tmc/releases/download/v0.9.6/tmc-multi-windows-x86_64-v0.9.6.tar.gz",
+          "linux": "https://github.com/999sian/tmc/releases/download/v0.9.6/tmc-multi-linux-x86_64-v0.9.6.tar.gz",
+          "macos_x64": "https://github.com/999sian/tmc/releases/download/v0.9.6/tmc-multi-macos-x86_64-v0.9.6.tar.gz",
+          "macos_arm64": "https://github.com/999sian/tmc/releases/download/v0.9.6/tmc-multi-macos-arm64-v0.9.6.tar.gz"
         },
-        "version": "v0.9.5"
+        "version": "v0.9.6"
       }
     },
     "N64": {
@@ -182,12 +182,12 @@
           "macOS"
         ],
         "downloadUrl": {
-          "windows": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.0/ComboShip-v0.3.0-windows.zip",
-          "linux": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.0/ComboShip-v0.3.0-linux-x86_64.AppImage",
-          "macos_x64": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.0/ComboShip-v0.3.0-macos.dmg",
-          "macos_arm64": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.0/ComboShip-v0.3.0-macos.dmg"
+          "windows": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.1/ComboShip-v0.3.1-windows.zip",
+          "linux": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.1/ComboShip-v0.3.1-linux-x86_64.AppImage",
+          "macos_x64": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.1/ComboShip-v0.3.1-macos.dmg",
+          "macos_arm64": "https://github.com/Varuuna/ComboShip/releases/download/v0.3.1/ComboShip-v0.3.1-macos.dmg"
         },
-        "version": "v0.3.0"
+        "version": "v0.3.1"
       },
       "paper": {
         "name": "Paperboat",
