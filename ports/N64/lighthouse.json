@@ -12,7 +12,7 @@
     ],
     "downloadUrl": {
         "windows": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.0/Lighthouse-Montauk-Alfa-Win64.zip",
-        "linux": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.1.0/Lighthouse-Hatteras-Alfa-Linux.zip",
+        "linux": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.0/lighthouse.appimage",
         "macos_x64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.0/Lighthouse-Montauk-Alfa-Mac.zip",
         "macos_arm64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.0/Lighthouse-Montauk-Alfa-Mac.zip"
     },
