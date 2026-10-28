@@ -1,6 +1,6 @@
 {
   "baseURL": "https://raw.githubusercontent.com/ThatCodingFrog/harbour-manifest/refs/heads/main/ports/",
-  "generated_at": "2026-10-23T16:19:39.273Z",
+  "generated_at": "2026-10-28T02:09:13.367Z",
   "ports": {
     "GB": {
       "ladx": {
@@ -161,12 +161,12 @@
           "macOS"
         ],
         "downloadUrl": {
-          "windows": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.0/Lighthouse-Montauk-Alfa-Win64.zip",
-          "linux": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.0/lighthouse.appimage",
-          "macos_x64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.0/Lighthouse-Montauk-Alfa-Mac.zip",
-          "macos_arm64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.0/Lighthouse-Montauk-Alfa-Mac.zip"
+          "windows": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.1/Lighthouse-Montauk-Bravo-Win64.zip",
+          "linux": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.1/lighthouse.appimage",
+          "macos_x64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.1/Lighthouse-Montauk-Bravo-Mac.zip",
+          "macos_arm64": "https://github.com/HarbourMasters/Lighthouse/releases/download/1.2.1/Lighthouse-Montauk-Bravo-Mac.zip"
         },
-        "version": "1.2.0"
+        "version": "1.2.1"
       },
       "comboship": {
         "name": "ComboShip",
