@@ -6,7 +6,7 @@ const path = require('path');
 // Removed strict \.zip$ requirement so extension-less link names (e.g. GitLab/Pixeldrain) can match
 const PLATFORM_PATTERNS = {
     windows: /.*(win|windows).*/i,
-    linux: /.*(linux|ubuntu).*/i,
+    linux: /.*(linux|ubuntu)|\.appimage/i,
     macos_x64: /.*(mac|macos|osx).*(x64|intel).*/i,
     macos_arm64: /.*(mac|macos|osx).*(arm64|aarch64|m1|m2).*/i,
     macos_universal: /.*(mac|macos|osx).*(universal|combined).*/i,
